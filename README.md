@@ -40,7 +40,7 @@
 ## 📌 Note
 
 This is my starting phase of coding practice.
-I will gradually move towards advanced Data Structures and Algorithms.
+I will gradually move towards advanced Data Structures and Algorithms(DSA)
 
 ---
 
