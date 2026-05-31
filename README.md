@@ -34,6 +34,7 @@
 * Writing clean and readable code
 * Practicing daily without skipping
 * Focusing on understanding rather than memorizing
+* Comparing the patterns/relating topics while practising new problems
 
 ---
 
