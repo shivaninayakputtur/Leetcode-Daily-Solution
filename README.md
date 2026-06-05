@@ -3,8 +3,6 @@
 
 🚀 This repository contains my daily coding practice where I solve basic programming problems to improve logic building and consistency.
 
----
-
 ## 🎯 Goal
 
 * Build strong programming fundamentals
