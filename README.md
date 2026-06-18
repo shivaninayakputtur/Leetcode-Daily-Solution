@@ -42,6 +42,13 @@ This is my starting phase of coding practice.
 I will gradually move towards advanced Data Structures and Algorithms(DSA)
 
 ---
+## ## 🏆 Coding Achievements & Consistency
+
+I love tackling complex algorithmic challenges and building a daily problem-solving habit. 
+
+* **LeetCode Profile:** [https://leetcode.com/u/Shivani_Nayak2007/]
+* **Latest Milestone:** 🏅 Earned the **LeetCode 50 Days Badge (2026)** for consistent daily coding.
+* **Current Goal:** Actively pushing toward the 100-day milestone,focusing on more complex problem and time complexity
 
 ⭐ Consistency > Perfection
 
