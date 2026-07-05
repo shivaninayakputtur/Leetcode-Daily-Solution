@@ -50,6 +50,6 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 * **Latest Milestone:** 🏅 Earned the **LeetCode 50 Days Badge (2026)** for consistent daily coding.
 * **Current Goal:** Actively pushing toward the 100-day milestone,focusing on more complex problem and time complexity
 
-⭐ Consistency > Perfection
+⭐ Consistency > Perfection.
 
 
