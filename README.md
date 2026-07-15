@@ -53,3 +53,19 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 ⭐ Consistency > Perfection.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
