@@ -59,24 +59,32 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
