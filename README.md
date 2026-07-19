@@ -59,6 +59,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -87,4 +88,8 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
