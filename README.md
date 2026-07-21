@@ -98,4 +98,12 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
