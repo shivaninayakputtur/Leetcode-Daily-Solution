@@ -62,6 +62,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0136-single-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1672-richest-customer-wealth) |
@@ -112,4 +113,8 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | ------- |
 | [0009-palindrome-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
