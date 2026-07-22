@@ -94,6 +94,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -106,4 +107,8 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
