@@ -67,6 +67,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
