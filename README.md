@@ -110,5 +110,6 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
