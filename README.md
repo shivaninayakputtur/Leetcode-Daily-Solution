@@ -62,6 +62,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0136-single-number](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0283-move-zeroes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
 ## String
 |  |
