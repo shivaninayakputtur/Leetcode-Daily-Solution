@@ -76,6 +76,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | ------- |
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
