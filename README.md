@@ -71,6 +71,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0771-jewels-and-stones](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
