@@ -71,6 +71,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -130,6 +131,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0412-fizz-buzz](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2469-convert-the-temperature](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
