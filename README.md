@@ -63,6 +63,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0283-move-zeroes) |
+| [1207-unique-number-of-occurrences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1470-shuffle-the-array) |
@@ -80,6 +81,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0169-majority-element](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
