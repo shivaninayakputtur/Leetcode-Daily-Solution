@@ -65,6 +65,7 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0217-contains-duplicate](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -146,4 +147,8 @@ I love tackling complex algorithmic challenges and building a daily problem-solv
 | [0412-fizz-buzz](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/shivaninayakputtur/Leetcode-Daily-Solution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
